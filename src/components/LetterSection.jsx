@@ -29,7 +29,7 @@ export default function LetterSection({ revealed }) {
       <div className={`letter-card ${visible ? 'visible' : ''}`} ref={cardRef}>
         <div className="letter-header">
           <div className="letter-for">Written for</div>
-          <h2 className="letter-name">Mehak</h2>
+          <h2 className="letter-name">XYZ</h2>
           <div className="letter-line" />
         </div>
 
