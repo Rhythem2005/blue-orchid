@@ -25,7 +25,7 @@ export default function HeroSection({ revealed }) {
 
       {/* Name reveal */}
       <div className="hero-name-container">
-        <h1 className="hero-name">Mehak</h1>
+        <h1 className="hero-name">XZY</h1>
         <div className="hero-name-line" />
         <p className="hero-tagline">
           &ldquo;Like blue orchids in moonlight, you make everything beautiful.&rdquo;
